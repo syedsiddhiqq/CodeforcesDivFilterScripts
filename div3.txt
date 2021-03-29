@@ -51,5 +51,5 @@ Div3 50:  http://codeforces.com/contest/1454
 Div3 51:  http://codeforces.com/contest/1462
 Div3 52:  http://codeforces.com/contest/1472
 Div3 53:  http://codeforces.com/contest/1475
-Div3 54:  http://codeforces.com/contest/1490
+Div3 54:  http://codeforces.com/contest/1490 - [a,e,f] - pending
 Div3 55:  http://codeforces.com/contest/1506 - done [F - G problems pending]
